@@ -28,7 +28,6 @@ The following PIP installation must be performed before running the program. It 
 ---
 
 ## Usage
-This section should include screenshots, code blocks, or animations explaining how to use this program.
 
 **Data Collection and Preparation**
 
