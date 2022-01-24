@@ -2,7 +2,7 @@
 
 This program is to develop a **Python** application (using Pandas) that will perform calculations to determine whether Cryptocurrency arbitrage opportunities exist for Bitcoin on two exchanges, Bitstamp and Coinbase. To perform this calculations, historical data is provided in the ```bitstamp.csv and coinbase.csv``` files. 
 
-User can select specific periods of time (a month) and dates (15th of every month) for Time Series Analysis. Once these parameters are selected, the application performs calculations, compares the pricing of Bitcoin on both exchanges and calculates any abritrage opportunities. Box and Plot charts are also utilized as visuals to better understand the data and the analystics.
+User can select specific periods of time (a month) and dates (i.e. 15th of every month) for Time Series Analysis. Once these parameters are selected, the application performs calculations, compares the pricing of Bitcoin on both exchanges and calculates any abritrage opportunities. Box and Plot charts are also utilized as visuals to better understand the data and the analystics.
 
 ---
 
