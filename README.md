@@ -80,7 +80,9 @@ Arbitrage Spread Box plots shows the percentiles of min.(0 percentile), max(100 
 
 **Line Plots**
 
-3 Line Graphs are plotted to illustrate the trends and to see visually the differences between the exchanged as a whole, by month, and by single day. The plots are overlays to identify prices differences.
+3 Line Graphs are plotted to illustrate the trends and to see visually the differences between the exchanged as a whole, by month, and by single day. The plots are overlays to identify prices differences. See here:
+
+![<ScreenShot>](<Python Screen Shot 2022-01-23 at 12.10.15 PM>))
 
 In the first overlayed plot (Bitstamp BTC Prices, red line v. Coinbase4 BTC Prices, blue line), some prices difference existing in the January; partilularly, toward the end of the month, a few days of Bitstamp is higher the Coinbase. However, as the time period progresses, there is a decline in price and the difference in prices visually disappear. The monthly plots reenforce these finding.
 
